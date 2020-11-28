@@ -1,6 +1,6 @@
 # Talk Web 
 
-[Talk Web](https://talk-web-bootstrap.vercel.app/blog.html)
+[Talk Web](https://talk-web-bootstrap.vercel.app/index.html)
 
 # Built With
 * [Bootstrap](https://getbootstrap.com/) - great UI boilerplate for modern web apps
